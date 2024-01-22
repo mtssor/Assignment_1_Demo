@@ -20,7 +20,7 @@ class Program
         Console.WriteLine("Counting to" + number + "...");
         for (int i = 1; i <= number; i++) ;
         {
-
+            Console.WriteLine(i);
         }
 
         Console.WriteLine(num);
